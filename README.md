@@ -35,14 +35,14 @@
 
 ---
 
-### 🐍 Python Snakes (Hacker Style)
+### 🐍 Python Snakes
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=3A7BFF&center=true&vCenter=true&width=600&lines=print(%22Hello+Hacker+World%22);while(True)%3A+code%5Fvs%5Fme%28%29;🐍+Python+is+alive..." />
+  <img src="https://img.shields.io/badge/🐍-Python%20Developer-3A7BFF?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🐍-Hacker%20Python%20Mode-3A7BFF?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=3A7BFF&center=true&vCenter=true&width=600&lines=Python+Developer+🐍;Clean+%26+Modern+Designs;Front-end+%2B+Python+Combo" />
 </p>
 
 ---
@@ -74,10 +74,10 @@
 ### 📡 Socials
 
 <p align="center">
-  <a href="https://instagram.com/code_vs_me”>
+  <a href="https://instagram.com/USERNAME">
     <img src="https://img.shields.io/badge/Instagram-3A7BFF?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://t.me/C”ode_VS_me>
+  <a href="https://t.me/USERNAME">
     <img src="https://img.shields.io/badge/Telegram-3A7BFF?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
@@ -89,4 +89,5 @@
 </p>
 
 <p align="center"><i>⭐️ Thanks for stopping by! Feel free to explore my repos.</i></p>
+
 
