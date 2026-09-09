@@ -17,7 +17,7 @@
 
 ### 🌹 About Me
 
-- 🔭 Currently crafting **clean & modern UI projects**
+- 🔭 Currently crafting **clean & modern projects**
 - 🎨 Passionate about interactive, pixel-perfect front-end experiences
 - 🌱 Always exploring new ideas in web design
 - ⚡ Fun fact: I love turning simple pages into small pieces of art
@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=3A7BFF&center=true&vCenter=true&width=600&lines=Python+Developer;Clean+%26+Modern+Designs;Front-end+%2B+Python+Combo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=3A7BFF&center=true&vCenter=true&width=600&lines=Python+Developer;Clean+%26+Modern+Designs" />
 </p>
 
 
