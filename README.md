@@ -17,7 +17,7 @@
 
 ### 🌹 About Me
 
-- 🔭 Currently crafting **clean & modern projects**
+- 🔭 Currently crafting **clean & modern UI projects**
 - 🎨 Passionate about interactive, pixel-perfect front-end experiences
 - 🌱 Always exploring new ideas in web design
 - ⚡ Fun fact: I love turning simple pages into small pieces of art
@@ -81,6 +81,15 @@
     <img src="https://img.shields.io/badge/Telegram-3A7BFF?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3A7BFF&height=100&section=footer" />
+</p>
+
+<p align="center"><i>⭐️ Thanks for stopping by! Feel free to explore my repos.</i></p>
+
 
 ---
 
