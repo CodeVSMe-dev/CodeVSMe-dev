@@ -55,7 +55,6 @@
 
 <p align="center">
   <a href="https://github.com/CodeVSMe-dev/login-modern-lamp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeVSMe-dev&repo=login-modern-lamp&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
