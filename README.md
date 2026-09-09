@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+CodeVSMe;Building+clean+%26+modern+projects+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+CodeVSMe;Building+clean+%26+modern+projects+%E2%9C%A8;Frontend+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ### 🌹 About Me
 
-- 🔭 Currently crafting **clean & modern projects**
+- 🔭 Currently crafting **clean & modern UI projects**
 - 🎨 Passionate about interactive, pixel-perfect front-end experiences
 - 🌱 Always exploring new ideas in web design
 - ⚡ Fun fact: I love turning simple pages into small pieces of art
