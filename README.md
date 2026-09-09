@@ -1,52 +1,53 @@
 <div align="center">
 
-<!-- 🐍 Hacker Profile Image -->
+<!-- 🟩 Hacker Matrix Profile -->
 <img src="https://github.com/CodeVSMe-dev.png" width="180" style="border-radius:50%; box-shadow:0 0 25px #00ff9d;" />
 
 <br><br>
 
-<!-- 🐍 Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+CodeVSMe;Building+clean+%26+modern+projects" />
+<!-- 🟩 Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+CodeVSMe;Matrix+Green+UI+Developer;Clean+%26+Modern+Projects;Green+Code+Falling+%F0%9F%94%A5" />
 
 </div>
 
+<!-- 🟩 Matrix Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=180&section=header&text=CodeVSMe-dev&fontSize=45&fontColor=000000&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=180&section=header&text=CodeVSMe-dev&fontSize=45&fontColor=000000&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/CodeVSMe-dev"><img src="https://img.shields.io/badge/GitHub-CodeVSMe--dev-000000?style=for-the-badge&logo=github&logoColor=00FF9D" /></a>
-  <img src="https://img.shields.io/badge/Status-Hacker%20UI%20Developer-00FF9D?style=for-the-badge" />
+  <a href="https://github.com/CodeVSMe-dev"><img src="https://img.shields.io/badge/GitHub-CodeVSMe--dev-000000?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
+  <img src="https://img.shields.io/badge/Status-Matrix%20UI%20Developer-00FF41?style=for-the-badge" />
 </p>
 
 ---
 
-## 🌹 About Me
+## 🟩 About Me
 
-- 🔭 Crafting **clean, modern & hacker-style UI**
+- 🔭 Crafting **clean, modern & matrix-style UI**
 - 🎨 Pixel-perfect front-end enthusiast
 - 🌱 Exploring interactive web design
 - ⚡ Fun fact: I turn simple pages into digital art
 
 ---
 
-## 🛠️ Tech Stack
+## 🟩 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF9D" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF9D" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF9D" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" />
 </p>
 
 ---
 
-## 🐍 Snake Contribution Graph (Green Hacker Mode)
+## 🐍 Matrix Snake Contribution Graph
 
 ![snake gif](https://github.com/CodeVSMe-dev/CodeVSMe-dev/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 📌 Featured Project
+## 🟩 Featured Project
 
 <p align="center">
   <a href="https://github.com/CodeVSMe-dev/login-modern-lamp">
@@ -58,7 +59,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🟩 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeVSMe-dev&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
@@ -70,24 +71,26 @@
 
 ---
 
-## 🔗 Social Links (Hacker Style)
+## 🟩 Social Links — Matrix Style
 
 <p align="center">
 
 <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF9D" />
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41" />
 </a>
 
 <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF9D" />
+  <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF41" />
 </a>
 
 </p>
 
 ---
 
+<!-- 🟩 Matrix Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
 </p>
 
-<p align="center"><i>⭐️ Thanks for stopping by! Stay green, stay hacking.</i></p>
+<p align="center"><i>⭐️ Thanks for stopping by! Enter the Matrix.</i></p>
+
