@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+CodeVSMe;Building+clean+%26+modern+projects+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3A7BFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+CodeVSMe;Building+clean+%26+modern+projects+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=CodeVSMe-dev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3A7BFF&height=180&section=header&text=CodeVSMe-dev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
   <a href="https://github.com/CodeVSMe-dev"><img src="https://img.shields.io/badge/GitHub-CodeVSMe--dev-181717?style=for-the-badge&logo=github" /></a>
-  <img src="https://img.shields.io/badge/Status-Building%20clean%20%26%20modern%20projects-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20clean%20%26%20modern%20projects-3A7BFF?style=for-the-badge" />
 </p>
 
 ---
@@ -27,9 +27,22 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-3A7BFF?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-3A7BFF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-3A7BFF?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3A7BFF?style=for-the-badge&logo=python&logoColor=yellow" />
+</p>
+
+---
+
+### 🐍 Python Snakes (Hacker Style)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=3A7BFF&center=true&vCenter=true&width=600&lines=print(%22Hello+Hacker+World%22);while(True)%3A+code%5Fvs%5Fme%28%29;🐍+Python+is+alive..." />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🐍-Hacker%20Python%20Mode-3A7BFF?style=for-the-badge" />
 </p>
 
 ---
@@ -58,8 +71,21 @@
 
 ---
 
+### 📡 Socials
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
+  <a href="https://instagram.com/code_vs_me”>
+    <img src="https://img.shields.io/badge/Instagram-3A7BFF?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/C”ode_VS_me>
+    <img src="https://img.shields.io/badge/Telegram-3A7BFF?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3A7BFF&height=100&section=footer" />
 </p>
 
 <p align="center"><i>⭐️ Thanks for stopping by! Feel free to explore my repos.</i></p>
