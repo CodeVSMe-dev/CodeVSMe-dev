@@ -17,7 +17,7 @@
 
 ### 🌹 About Me
 
-- 🔭 Currently crafting **clean & modern UI projects**
+- 🔭 Currently crafting **clean & modern projects**
 - 🎨 Passionate about interactive, pixel-perfect front-end experiences
 - 🌱 Always exploring new ideas in web design
 - ⚡ Fun fact: I love turning simple pages into small pieces of art
