@@ -56,9 +56,11 @@
 <p align="center">
   <a href="https://github.com/CodeVSMe-dev/login-modern-lamp">
   </a>
+  <a href="https://github.com/CodeVSMe-dev/Bat-Pixel-Animation"></a>
 </p>
 
 <p align="center"><i>💡 A modern login UI with an interactive lamp effect</i></p>
+<p align="center"><i>🦇Bat pixel animation</i></p>
 
 ---
 
